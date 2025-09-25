@@ -18,9 +18,6 @@ I am an aspiring Software Developer and Python/Data Analyst enthusiast eager to 
   Practice problems and examples focusing on Python lists and list operations.
 
 
-
-
-
 ## Key Skills Demonstrated
 
 - Python basics: data types, variables, control flow  
