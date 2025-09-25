@@ -17,8 +17,7 @@ I am an aspiring Software Developer and Python/Data Analyst enthusiast eager to 
 - **List_Exercise.ipynb**  
   Practice problems and examples focusing on Python lists and list operations.
 
-- **Leetcode-Portfolio**  
-  A collection of my algorithm and data structure solutions from LeetCode, organized by topics and difficulty.
+
 
 
 
@@ -50,5 +49,6 @@ Thank you for visiting my portfolio! Feel free to reach out if you'd like to col
 
 
 [Visit my GitHub Profile](https://github.com/Praruj)
+
 
 
