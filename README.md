@@ -28,7 +28,6 @@ I am an aspiring Software Developer and Python/Data Analyst enthusiast eager to 
 - Data structures: lists, dictionaries, sets  
 - JSON handling with `json.dumps()` and `json.loads()`  
 - Algorithm problem solving with LeetCode challenges  
-- Web basics with HTML and CSS
 
 ## How to Use
 
@@ -51,4 +50,5 @@ Thank you for visiting my portfolio! Feel free to reach out if you'd like to col
 
 
 [Visit my GitHub Profile](https://github.com/Praruj)
+
 
