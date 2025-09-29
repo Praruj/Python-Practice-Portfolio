@@ -17,6 +17,8 @@ I am an aspiring Software Developer and Python/Data Analyst enthusiast eager to 
 - **List_Exercise.ipynb**  
   Practice problems and examples focusing on Python lists and list operations.
 
+- **Lamda_func.ipynb**
+  This notebook contains practice exercises and examples focused on Python lambda functions.
 
 ## Key Skills Demonstrated
 
