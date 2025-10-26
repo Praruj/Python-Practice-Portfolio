@@ -6,19 +6,6 @@ Welcome to my Python Practice Portfolio! This repository showcases my journey in
 
 I am an aspiring Software Developer and Python/Data Analyst enthusiast eager to learn and grow. This portfolio reflects my commitment to mastering programming fundamentals and applying them to real-world problems.
 
-## Repository Structure
-
-- **json_exercise.ipynb**  
-  Practical exercises converting Python objects to JSON strings and back, demonstrating serialization and deserialization concepts using the `json` module.
-
-- **Dictionary.ipynb**  
-  Exercises and notes on Python dictionaries, exploring manipulations and common use cases.
-
-- **List_Exercise.ipynb**  
-  Practice problems and examples focusing on Python lists and list operations.
-
-- **Lamda_func.ipynb**
-  This notebook contains practice exercises and examples focused on Python lambda functions.
 
 ## Key Skills Demonstrated
 
