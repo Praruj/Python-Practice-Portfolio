@@ -35,6 +35,3 @@ Thank you for visiting my portfolio! Feel free to reach out if you'd like to col
 
 
 [Visit my GitHub Profile](https://github.com/Praruj)
-
-
-
