@@ -1,0 +1,30 @@
+{
+    "showcase": [
+        {
+            "id": 1,
+            "name": "Refrigerator Unit",
+            "model": "UR-100",
+            "category": "Cooling"
+        },
+        {
+            "id": 2,
+            "name": "Freezer Unit",
+            "model": "UF-200",
+            "category": "Freezing"
+        },
+        {
+            "id": 3,
+            "name": "Display Cooler",
+            "model": "DC-300",
+            "category": "Display"
+        },
+        {
+            "id": "8",
+            "name": "Aurora Display",
+            "model": "XQ-900",
+            "category": "electronics",
+            "price": 249.99,
+            "full_name": "Aurora Display-XQ-900"
+        }
+    ]
+}
