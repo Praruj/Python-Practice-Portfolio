@@ -12,7 +12,7 @@ I am an aspiring Software Developer and Python/Data Analyst enthusiast eager to 
 - Python basics: data types, variables, control flow  
 - Data structures: lists, dictionaries, sets  
 - JSON handling with `json.dumps()` and `json.loads()`  
-- Algorithm problem solving with LeetCode challenges  
+- Regular Expressions and API with `FastAPI()` 
 
 ## How to Use
 
@@ -26,8 +26,7 @@ git clone https://github.com/Praruj/Python-Practice-Portfolio.git
 ## Future Plans
 
 - Expand coverage on advanced Python topics  
-- Add more data science projects and analysis notebooks  
-- Include unit testing and version control best practices
+
 
 ---
 
