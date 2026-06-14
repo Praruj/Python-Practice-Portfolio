@@ -1,17 +1,18 @@
- Python Practice Portfolio
+# Python Practice Portfolio
 
-<div style="margin: 20px 0;">
-  <button onclick="toggleLang('en')" id="btn-en" 
-    style="padding: 8px 16px; margin-right: 8px; font-weight: bold; background: #00ff9d; color: #000; border: none; border-radius: 4px; cursor: pointer;">
-    🇬🇧 English
-  </button>
-  <button onclick="toggleLang('ja')" id="btn-ja" 
-    style="padding: 8px 16px; background: transparent; color: #00ff9d; border: 1px solid #00ff9d; border-radius: 4px; cursor: pointer;">
-    🇯🇵 日本語
-  </button>
-</div>
+<p align="center">
+  <a href="#english" style="text-decoration:none;">
+    <span style="background:#00ff9d;color:#000;padding:8px 16px;border-radius:4px;font-weight:bold;">🇬🇧 English</span>
+  </a>
+     
+  <a href="#japanese" style="text-decoration:none;">
+    <span style="background:transparent;color:#00ff9d;border:1px solid #00ff9d;padding:8px 16px;border-radius:4px;">🇯🇵 日本語</span>
+  </a>
+</p>
 
-<div id="content-en">
+---
+
+### <span id="english">🇬🇧 English Version</span>
 
 **Welcome to my Python Practice Portfolio!**  
 This repository showcases my journey in learning Python programming and data analysis through a variety of practical exercises and projects. It demonstrates my growing proficiency in Python core concepts, data structures, JSON handling, and algorithm problem-solving.
@@ -46,7 +47,7 @@ I am an aspiring Software Developer and Python/Data Analyst enthusiast eager to 
    ```bash
    source .venv/bin/activate
    ```
-4. Install dependencies (if `requirements.txt` exists):
+4. Install dependencies (if any):
    ```bash
    pip install -r requirements.txt
    ```
@@ -54,7 +55,6 @@ I am an aspiring Software Developer and Python/Data Analyst enthusiast eager to 
    ```bash
    jupyter notebook
    ```
-6. Open the notebooks to explore and run the exercises.
 
 ## Future Plans
 - Expand coverage of advanced Python topics
@@ -67,10 +67,10 @@ I am an aspiring Software Developer and Python/Data Analyst enthusiast eager to 
 Thank you for visiting my portfolio! Feel free to reach out if you'd like to collaborate or discuss Python programming.
 
 [Visit my GitHub Profile](https://github.com/Praruj)
-</div>
 
-<!-- Japanese Version -->
-<div id="content-ja" style="display: none;">
+---
+
+### <span id="japanese">🇯🇵 日本語版</span>
 
 **Python練習ポートフォリオへようこそ！**  
 このリポジトリは、Pythonプログラミングとデータ分析を学ぶためのさまざまな実践演習とプロジェクトを集めたものです。Pythonの基礎概念、データ構造、JSON処理、アルゴリズム問題解決などのスキルを着実に向上させている過程を示しています。
@@ -113,7 +113,6 @@ Thank you for visiting my portfolio! Feel free to reach out if you'd like to col
    ```bash
    jupyter notebook
    ```
-6. ノートブックを開いて演習を実行してください。
 
 ## 今後の予定
 - 高度なPythonトピックの拡張
@@ -127,28 +126,3 @@ Thank you for visiting my portfolio! Feel free to reach out if you'd like to col
 協力やPythonに関する議論を希望される場合はお気軽にご連絡ください。
 
 [GitHubプロフィールを見る](https://github.com/Praruj)
-</div>
-
-<script>
-function toggleLang(lang) {
-  const en = document.getElementById('content-en');
-  const ja = document.getElementById('content-ja');
-  const btnEn = document.getElementById('btn-en');
-  const btnJa = document.getElementById('btn-ja');
-
-  if (lang === 'en') {
-    en.style.display = 'block';
-    ja.style.display = 'none';
-    btnEn.style.fontWeight = 'bold';
-    btnJa.style.fontWeight = 'normal';
-  } else {
-    en.style.display = 'none';
-    ja.style.display = 'block';
-    btnEn.style.fontWeight = 'normal';
-    btnJa.style.fontWeight = 'bold';
-  }
-}
-
-// Default to English
-toggleLang('en');
-</script>
