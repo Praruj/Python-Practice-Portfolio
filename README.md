@@ -1,7 +1,4 @@
-**✅ Here is the complete `README.md` file** with bilingual support (English + Japanese) and toggle buttons:
-
-```markdown
-# Python Practice Portfolio
+ Python Practice Portfolio
 
 <div style="margin: 20px 0;">
   <button onclick="toggleLang('en')" id="btn-en" 
